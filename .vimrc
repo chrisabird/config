@@ -1,0 +1,10 @@
+set history=1000
+set number
+set nocompatible
+set autoindent
+set smartindent
+set tabstop=2
+set shiftwidth=2
+set ruler
+syntax on
+set nowrap
